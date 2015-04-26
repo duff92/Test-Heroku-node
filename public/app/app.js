@@ -1,0 +1,1 @@
+angular.module('colorWatch', ['app.routes', 'ngAria', 'colorWatch.home', 'colorWatch.test']);

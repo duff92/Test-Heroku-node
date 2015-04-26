@@ -1,0 +1,22 @@
+{
+  "name": "Test-Heroku-node",
+  "version": "1.0.0",
+  "description": "Test Heroku and Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/duff92/Test-Heroku-node.git"
+  },
+  "keywords": [
+    "Test"
+  ],
+  "author": "Joakim Larsson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duff92/Test-Heroku-node/issues"
+  },
+  "homepage": "https://github.com/duff92/Test-Heroku-node"
+}
