@@ -1,8 +1,8 @@
 {
-  "name": "Test-Heroku-node",
+  "name": "colorwatch",
   "version": "1.0.0",
-  "description": "Test Heroku and Node.js",
-  "main": "index.js",
+  "description": "An application created for Funka Nu AB",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,13 +10,15 @@
     "type": "git",
     "url": "https://github.com/duff92/Test-Heroku-node.git"
   },
-  "keywords": [
-    "Test"
-  ],
-  "author": "Joakim Larsson",
+  "author": "Joakim Larsson & Christopher State",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/duff92/Test-Heroku-node/issues"
   },
-  "homepage": "https://github.com/duff92/Test-Heroku-node"
+  "homepage": "https://github.com/duff92/Test-Heroku-node",
+  "dependencies": {
+    "express": "^4.12.3",
+    "mongoose": "^4.0.1",
+    "path": "^0.11.14"
+  }
 }
